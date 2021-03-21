@@ -21,7 +21,7 @@ The basic image of this workflow is that of a general receptionist or inquiry ha
 
 # Download
 
-https://github.com/takeshi0206/filemaker-addons-reception-for-redmine/releases
+https://github.com/takeshi0206/filemaker-addons-reception-for-slack/releases
 
 # Administrator id and password
 
