@@ -1,6 +1,6 @@
 # filemaker-addons-reception-for-slack
 
-![1024x1024](https://user-images.githubusercontent.com/8992239/111493396-da1f9a80-8780-11eb-83a4-e0fdf65cde22.png)
+![1024x1024-2](https://user-images.githubusercontent.com/8992239/111898584-5b6d7a80-8a6a-11eb-86b1-0f1b8e5baf4c.png)
 
 # Support site > How to use / Reception for Slack
 https://fm-add-ons.blogspot.com/p/for-slack.html
